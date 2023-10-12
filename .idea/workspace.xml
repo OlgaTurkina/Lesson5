@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="548f9b18-ab18-4090-a262-90c549d386bc" name="Changes" comment="2">
+    <list default="true" id="548f9b18-ab18-4090-a262-90c549d386bc" name="Changes" comment="DZ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Wf0DutCk965fRl80yPZjuoMfsf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/Лялькина флешка/Java/Lesson4/Lesson4",
+    "last_opened_file_path": "F:/Лялькина флешка/Java/Lesson5/Lesson5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697108211334</updated>
       <workItem from="1697108212325" duration="4475000" />
+      <workItem from="1697116894471" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -80,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697111909001</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DZ">
+      <option name="closed" value="true" />
+      <created>1697117011752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697117011752</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +100,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="DZ" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
